@@ -1,3 +1,5 @@
+/* configure in heroku dashboard */
+
 module.exports = {
   mongoURI: process.env.MONGO_URI,
   accessKeyId: process.env.accessKeyId,

@@ -1,3 +1,5 @@
+/* Simple local auth User */
+
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
 
